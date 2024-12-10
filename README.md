@@ -82,6 +82,8 @@ Follow these steps to set up and run the project:
 
 [![Project Demo](https://github.com/user-attachments/assets/f1f2d3f3-520e-44ff-93da-1f7a40a2c28a)](https://youtu.be/0H7p7I59IzY)
 
+[Watch Demo on YouTube](https://youtu.be/0H7p7I59IzY)
+
 ---
 
 ## **Screenshots**  
