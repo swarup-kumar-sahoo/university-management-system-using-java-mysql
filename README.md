@@ -1,5 +1,3 @@
-Here’s a professional and well-structured **README** file for your **University Management System** project:
-
 ---
 
 # **University Management System**
